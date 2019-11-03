@@ -1,0 +1,112 @@
+2019-11-02 13:26:18,953 - GL - INFO - Disentangled feature
+2019-11-02 13:26:18,955 - GL - INFO - task name: DCASE2019-task4_semi
+2019-11-02 13:26:18,955 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-02 13:26:18,955 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-02 13:26:18,955 - GL - INFO - mode: train
+2019-11-02 13:26:18,955 - GL - INFO - semi_supervised: True
+2019-11-02 13:26:18,955 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-02 13:27:56,111 - GL - INFO - Disentangled feature
+2019-11-02 13:27:56,114 - GL - INFO - task name: ../DCASE2019-task4_semi
+2019-11-02 13:27:56,115 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-02 13:27:56,115 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-02 13:27:56,115 - GL - INFO - mode: train
+2019-11-02 13:27:56,115 - GL - INFO - semi_supervised: True
+2019-11-02 13:27:56,116 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-02 13:37:02,537 - GL - INFO - Disentangled feature
+2019-11-02 13:37:02,543 - GL - INFO - task name: ../DCASE2019-task4_semi
+2019-11-02 13:37:02,543 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-02 13:37:02,544 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-02 13:37:02,544 - GL - INFO - mode: train
+2019-11-02 13:37:02,544 - GL - INFO - semi_supervised: True
+2019-11-02 13:37:02,544 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-02 21:15:06,487 - GL - INFO - Disentangled feature
+2019-11-02 21:15:06,489 - GL - INFO - task name: ../DCASE2019-task4_semi
+2019-11-02 21:15:06,490 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-02 21:15:06,490 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-02 21:15:06,490 - GL - INFO - mode: train
+2019-11-02 21:15:06,490 - GL - INFO - semi_supervised: True
+2019-11-02 21:15:06,490 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-02 21:16:01,265 - GL - INFO - Disentangled feature
+2019-11-02 21:16:01,268 - GL - INFO - task name: ../DCASE2019-task4_semi
+2019-11-02 21:16:01,268 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-02 21:16:01,268 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-02 21:16:01,268 - GL - INFO - mode: train
+2019-11-02 21:16:01,268 - GL - INFO - semi_supervised: True
+2019-11-02 21:16:01,268 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-03 08:56:53,594 - GL - INFO - Disentangled feature
+2019-11-03 08:56:53,596 - GL - INFO - task name: ../DCASE2019-task4_semi
+2019-11-03 08:56:53,597 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-03 08:56:53,597 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-03 08:56:53,597 - GL - INFO - mode: train
+2019-11-03 08:56:53,597 - GL - INFO - semi_supervised: True
+2019-11-03 08:56:53,597 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-03 08:59:19,213 - GL - INFO - Disentangled feature
+2019-11-03 08:59:19,215 - GL - INFO - task name: ../DCASE2019-task4_semi
+2019-11-03 08:59:19,215 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-03 08:59:19,215 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-03 08:59:19,215 - GL - INFO - mode: train
+2019-11-03 08:59:19,215 - GL - INFO - semi_supervised: True
+2019-11-03 08:59:19,215 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-03 10:04:56,392 - GL - INFO - Disentangled feature
+2019-11-03 10:04:56,394 - GL - INFO - task name: ../DCASE2019-task4_semi
+2019-11-03 10:04:56,394 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-03 10:04:56,395 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-03 10:04:56,395 - GL - INFO - mode: train
+2019-11-03 10:04:56,395 - GL - INFO - semi_supervised: True
+2019-11-03 10:04:56,395 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-03 10:05:18,244 - GL - INFO - Disentangled feature
+2019-11-03 10:05:18,246 - GL - INFO - task name: DCASE2019-task4_semi
+2019-11-03 10:05:18,247 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-03 10:05:18,247 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-03 10:05:18,247 - GL - INFO - mode: train
+2019-11-03 10:05:18,247 - GL - INFO - semi_supervised: True
+2019-11-03 10:05:18,247 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-03 10:05:39,921 - GL - INFO - Disentangled feature
+2019-11-03 10:05:39,925 - GL - INFO - task name: /home/julia/Sound_event_detection/DCASE2019-task4_semi
+2019-11-03 10:05:39,925 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-03 10:05:39,925 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-03 10:05:39,926 - GL - INFO - mode: train
+2019-11-03 10:05:39,926 - GL - INFO - semi_supervised: True
+2019-11-03 10:05:39,926 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-03 10:07:41,718 - GL - INFO - Disentangled feature
+2019-11-03 10:07:41,722 - GL - INFO - task name: /home/julia/Sound_event_detection/DCASE2019-task4_semi
+2019-11-03 10:07:41,722 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-03 10:07:41,722 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-03 10:07:41,722 - GL - INFO - mode: train
+2019-11-03 10:07:41,722 - GL - INFO - semi_supervised: True
+2019-11-03 10:07:41,723 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-03 10:08:23,127 - GL - INFO - Disentangled feature
+2019-11-03 10:08:23,130 - GL - INFO - task name: /home/julia/Sound_event_detection/DCASE2019-task4_semi
+2019-11-03 10:08:23,130 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-03 10:08:23,131 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-03 10:08:23,131 - GL - INFO - mode: train
+2019-11-03 10:08:23,131 - GL - INFO - semi_supervised: True
+2019-11-03 10:08:23,131 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-03 10:09:35,296 - GL - INFO - Disentangled feature
+2019-11-03 10:09:35,299 - GL - INFO - task name: /home/julia/Sound_event_detection/DCASE2019-task4_semi
+2019-11-03 10:09:35,299 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-03 10:09:35,299 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-03 10:09:35,299 - GL - INFO - mode: train
+2019-11-03 10:09:35,299 - GL - INFO - semi_supervised: True
+2019-11-03 10:09:35,299 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-03 10:20:04,856 - GL - INFO - Disentangled feature
+2019-11-03 10:20:04,858 - GL - INFO - task name: /home/julia/Sound_event_detection/DCASE2019-task4_semi
+2019-11-03 10:20:04,859 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-03 10:20:04,859 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-03 10:20:04,859 - GL - INFO - mode: train
+2019-11-03 10:20:04,859 - GL - INFO - semi_supervised: True
+2019-11-03 10:20:04,859 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-03 10:20:21,210 - GL - INFO - Disentangled feature
+2019-11-03 10:20:21,212 - GL - INFO - task name: /home/julia/Sound_event_detection/DCASE2019-task4_semi
+2019-11-03 10:20:21,212 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-03 10:20:21,212 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-03 10:20:21,212 - GL - INFO - mode: train
+2019-11-03 10:20:21,212 - GL - INFO - semi_supervised: True
+2019-11-03 10:20:21,212 - GL - INFO - config preparation for at_with_cATP-DF
+2019-11-03 10:21:01,437 - GL - INFO - Disentangled feature
+2019-11-03 10:21:01,440 - GL - INFO - task name: /home/julia/Sound_event_detection/DCASE2019-task4_semi
+2019-11-03 10:21:01,440 - GL - INFO - PS-model name: sed_with_cATP-DF
+2019-11-03 10:21:01,440 - GL - INFO - PT-model name: at_with_cATP-DF
+2019-11-03 10:21:01,440 - GL - INFO - mode: train
+2019-11-03 10:21:01,441 - GL - INFO - semi_supervised: True
+2019-11-03 10:21:01,441 - GL - INFO - config preparation for at_with_cATP-DF

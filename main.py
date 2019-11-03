@@ -302,7 +302,7 @@ if __name__=='__main__':
 		if semi_supervised:
 			semi_train(task_name, sed_model_name, at_model_name, augmentation)
 		else:
-			supervised_train(task_name, sed_model_name, augmentation)		
+			supervised_train(task_name, sed_model_name, augmentation)
 	else:
 		test_models(task_name, sed_model_name, model_weights_list)
 		

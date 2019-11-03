@@ -1,2 +1,9 @@
 __pycache__/
 *.pyc
+.idea/
+data/feature
+data/label
+data/label/
+data/feature/
+LICENCE
+LICENSE

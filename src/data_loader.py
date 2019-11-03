@@ -82,7 +82,7 @@ class data_loader(object):
 			self.test_csv, 
 			self.vali_csv, 
 			self.win_len_csv]
-	
+
 		#ensure that all the paths are valid
 		for  f in files:
 			assert os.path.exists(f)
